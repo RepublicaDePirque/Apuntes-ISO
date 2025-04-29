@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "60423b130a0cb794",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2118513d76f7aff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea8623ca8fc0794b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de996db671d913eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e97687971376494e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9c374d80f1640f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "389fa4ca89bf7e42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "55e11fca3e4c78f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0da4ea8d5f327469",
+    "type": "split",
+    "children": [
+      {
+        "id": "53383bffaefd321b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b1fee11788e8936",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "27a43fe91e41d5d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "e735420823a5c444",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a38d1a282eaf64f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "ea8623ca8fc0794b",
+  "lastOpenFiles": [
+    "Apuntes ramo/Presentación 8 (Ingeniería de requisitos A).md",
+    "Apuntes-ISO/Apuntes ramo/Presentación 8 (Ingeniería de requisitos A).md",
+    "Apuntes-ISO/Apuntes ramo/Presentación 7 (SCRUM).md",
+    "Apuntes-ISO/Apuntes ramo/Presentación 6 (Pruebas de software).md",
+    "Apuntes-ISO/Apuntes ramo/Presentación 5 (Estimaciones).md",
+    "Apuntes-ISO/Apuntes ramo/Presentación 4 (Proceso de desarrollo).md",
+    "Apuntes-ISO/Apuntes ramo/Presentación 3 (SEMAT).md",
+    "Apuntes-ISO/Apuntes ramo/Presentación 1 (Introducción).md",
+    "Apuntes-ISO/Apuntes ramo/Presentación 0 (Aspetos administrativos).md",
+    "Apuntes-ISO/Apuntes ramo",
+    "Apuntes-ISO/README.md",
+    "Apuntes-ISO",
+    "Apuntes ramo/Presentación 3 (SEMAT).md",
+    "Apuntes ramo/Presentación 6 (Pruebas de software).md",
+    "Apuntes ramo/Presentación 7 (SCRUM).md",
+    "Apuntes ramo/Presentación 4 (Proceso de desarrollo).md",
+    "Apuntes ramo/Presentación 5 (Estimaciones).md",
+    "Apuntes ramo/Presentación 1 (Introducción).md",
+    "Pasted image 20250426123249.png",
+    "Pasted image 20250426123219.png",
+    "Pasted image 20250426112354.png",
+    "Pasted image 20250426112113.png",
+    "Pasted image 20250426112037.png",
+    "Apuntes ramo/Presentación 0 (Aspetos administrativos).md",
+    "Apuntes ramo/Sin título.md",
+    "Pasted image 20250426110412.png",
+    "Pasted image 20250426104221.png",
+    "Pasted image 20250426102141.png",
+    "Sin nombre",
+    "Welcome.md",
+    "Apuntes ramo"
+  ]
+}

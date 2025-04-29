@@ -1,0 +1,69 @@
+***Requisitos:***
+- **Impacto e importancia:** Reducir riesgo de construcción
+	- El riesgo de hacer algo inútil (Efectividad)
+	- El riesgo de estimar mal recursos (Eficiencia)
+- **Utilidad:** La especificación de requisitos debe ser útil.
+	- *Requisitos sirven para:*
+		- El cliente sepa que va a recibir
+		- Los desarrolladores sepan qué construir 
+		- El equipo de testing sepa qué probar
+		- El gestor planifique la iniciativa
+- **Requisitos ideales:**
+	- Completos
+	- Consistentes
+	- Correctos
+- **Requisitos?**
+	- Descripción de lo que un sistema debe hacer
+	- Capacidades y condiciones a las que el sistema debe adherir
+	- *2 Tipos:*
+		- Funcionales
+		- Extra-funcionales
+- **Funcionales:** Servicios que el sistema debe realizar
+	- *Funcionalidad:* Entrada/Comportamiento/Salida
+- **Extra-Funcionales:** Propiedades/restricciones del sistema no específicos al sistema:
+	- *Ejemplo:* El sistema debe responder rápido.
+	- Mega importantes
+- **FURPS+:** Modelo de clasificación.
+	- F: Requisitos funcionales
+	- U: Usabilidad
+	- R: Confiabilidad
+	- P: Rendimiento
+	- S: Soportable
+	- +: Otros
+		- Requisitos de implantación
+		- Requisitos de interfaz
+		- Requisitos de operación
+		- Requisitos legales
+		  
+
+***Ingeniería de requisitos:*** 
+- Construye un puente entre los requisitos del sistema, diseño y construcción del software. Abarca durante la comunicación de las actividades del proyecto hasta el modelamiento.
+- **Aborda:** 
+	- El contexto del software que será realizado
+	- Las necesidades específicas de diseño y construcción
+	- Las prioridades que guían el orden en que cada trabajo debe ser realizado
+	- La información, función y comportamiento que tendrá impacto en el resultado final.
+- **Especificación:**
+	- *Describiendo requisitos:*
+		- El proceso usado varía dependiendo del dominio de la aplicación, las personas involucradas y los requisitos obtenidos.
+		- Actividades genéricas comunes:
+			- Elicitación de requisitos
+			- Análisis de requisitos
+			- Validación de requisitos
+			- Administración de requisitos
+		- Estudio de factibilidad: Se realizará el proyecto o no:
+			- El sistema contribuye a los objetivos organizacionales?
+			- Se puede realizar con la tecnología y presupuesto actual?
+			- Se puede integrar a otros?
+		- Elicitación y análisis:
+			- Saben los SH lo que quieren?
+			- Los SH expresaron bien sus necesidades?
+			- Existen conflictos de intereses entre los SH?
+		- Validación:
+			- Se demuestra que los requisitos definen el sistema?
+			- Costo de los requisitos?
+			- Costo de arreglar problemas?
+		- **Los usuarios pueden encontrar difícil articular toda esa información**
+		- Funcional (clásico): Especificar en lenguaje natural lo que el sistema debe hacer
+		- Operacional: Escenarios concretos de acción
+		- Objetivos: Especificar que no hará el sistema, sino para que. 
