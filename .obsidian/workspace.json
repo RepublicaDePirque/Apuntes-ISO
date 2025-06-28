@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ea76f652d5a4280e",
+        "id": "1345217b5f20bcbe",
         "type": "tabs",
         "children": [
           {
-            "id": "6a7c7fc6bf9e1e99",
+            "id": "1d08885bb5026d14",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes ramo/Presentación 13 (DEVOPS, MLOPS, IA).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Presentación 13 (DEVOPS, MLOPS, IA)"
             }
           }
         ]
@@ -164,9 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a7c7fc6bf9e1e99",
+  "active": "1d08885bb5026d14",
   "lastOpenFiles": [
-    "Apuntes ramo/Presentación 12 ().md",
+    "Apuntes ramo/Presentación 13 (DEVOPS, MLOPS, IA).md",
+    "Apuntes ramo/Presentación 12 (Calidad de software).md",
+    "Apuntes ramo/Presentación 12 (Calidad de software).md",
     "Apuntes ramo/Presentación 11 (DDD).md",
     "Apuntes ramo/Presentación 8 (Ingeniería de requisitos A).md",
     "Apuntes ramo/Presentación 8.1 (Ingeniería de requisitos 2).md",
